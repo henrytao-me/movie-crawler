@@ -1,0 +1,796 @@
+{
+  "Player": {
+    "playButtonColor": "#FF000A",
+    "titleBar": true,
+    "slide_inview": false,
+    "monetize": true,
+    "autoplay": true,
+    "deblocker": false,
+    "apply_deblocker": "0",
+    "deblockerAdTagUrl": null,
+    "autoplayInview": false,
+    "share": "player",
+    "volume": true,
+    "fullscreen": true,
+    "controls": true,
+    "controlsBehavior": "autohide",
+    "videoPlayback": "startScreen",
+    "playlistPlayback": "continuous",
+    "afterPlaylistEnd": "loop",
+    "voipSocEnabled": false,
+    "adFrequency": "1",
+    "adOffset": "1",
+    "comscore": "",
+    "veepsChat": false,
+    "start_muted": false,
+    "start_muted_rollover": false,
+    "play_in_page": false,
+    "inpage_mobile": false,
+    "playlistScreen": true,
+    "shareScreen": true,
+    "backfill_monetize": false,
+    "c3": "",
+    "encode_preroll": false,
+    "id": "6326",
+    "branding": {
+      "img": "\/\/cdn.brid.tv\/live\/partners\/playerlogo\/74362762.png",
+      "url": "http:\/\/www.dragonballcomplete.com",
+      "pos": "0",
+      "alt": "0bb.4a9.myftpupload.com"
+    },
+    "primaryColor": "#FF000A",
+    "adSDK": [
+      "optimized"
+    ],
+    "mode": "playlist",
+    "inCms": false
+  },
+  "Partner": {
+    "urchin": "",
+    "id": "5625",
+    "deblocker": false,
+    "user_id": "5032",
+    "brand": true,
+    "domain_short": "0bb.4a9.myftpupload.com",
+    "adTagUrl": [
+      "http:\/\/pubads.g.doubleclick.net\/gampad\/ads?sz=640x480&iu=\/13116887\/program&impl=s&gdfp_req=1&env=vp&output=xml_vast3&unviewed_position_start=1&url=[referrer_url]&description_url=[description_url]&correlator=[timestamp]&cust_params=domain%3Ddragonballcomplete.com"
+    ],
+    "flashAdTagUrl": [
+      "http:\/\/pubads.g.doubleclick.net\/gampad\/ads?sz=640x480&iu=\/13116887\/program&impl=s&gdfp_req=1&env=vp&output=xml_vast3&unviewed_position_start=1&url=[referrer_url]&description_url=[description_url]&correlator=[timestamp]&cust_params=domain%3Ddragonballcomplete.com"
+    ],
+    "bridAdPartner": false,
+    "upload": false,
+    "upload_on": true,
+    "intro_ignore": false,
+    "frequency": 1
+  },
+  "Skin": {
+    "id": "1",
+    "cat_id": "1",
+    "swf": "default",
+    "templatized": false,
+    "PlayToggle": "20.4 20'><path opacity='0.8' enable-background='new' d='M0.7,20V1.3l19.8,9.3L0.7,20z M3.1,5.1v11.1l11.7-5.5L3.1,5.1z'\/><path fill='#FFFFFF' d='M0.1,18.7V0l19.8,9.3L0.1,18.7z M2.5,3.8v11.1l11.7-5.5'\/>",
+    "Pause": "20.4 20'><rect x='4.6' y='3.7' opacity='0.8' enable-background='new' width='3.9' height='13.2'\/><rect x='12.8' y='3.7' opacity='0.8' enable-background='new' width='3.9' height='13.2'\/><g><rect x='3.8' y='3.1' fill='#FFFFFF' width='3.9' height='13.2'\/><rect x='12' y='3.1' fill='#FFFFFF' width='3.9' height='13.2'\/><\/g>",
+    "FullscreenToggle": "24.2 23.5'><g opacity='0.8' enable-background='new'><g><g><g><polygon points='10.9,20.8 21.7,20.8 21.7,10 18.5,10 18.5,17.5 10.9,17.5'\/><\/g><\/g><\/g><g><g><g><polygon points='12.1,2.6 1.3,2.6 1.3,13.4 4.5,13.4 4.5,5.9 12.1,5.9'\/><\/g><\/g><\/g><\/g><g><g><g><g><polygon fill='#FFFFFF' points='11.3,20.4 22.1,20.4 22.1,9.6 18.9,9.6 18.9,17.1 11.3,17.1'\/><\/g><\/g><\/g><g><g><g><polygon fill='#FFFFFF' points='12.5,2.2 1.7,2.2 1.7,13 4.9,13 4.9,5.5 12.5,5.5'\/><\/g><\/g><\/g><\/g>",
+    "FullscreenOff": "24.2 23.5'><g opacity='0.8' enable-background='new'><g><g><g><polygon points='23.8,12.3 13,12.3 13,23.1 16.3,23.1 16.3,15.6 23.8,15.6'\/><\/g><\/g><\/g><g><g><g><polygon points='0,11.3 10.8,11.3 10.8,0.5 7.5,0.5 7.5,8 0,8'\/><\/g><\/g><\/g><\/g><g><g><g><g><polygon fill='#FFFFFF' points='24.2,11.8 13.4,11.8 13.4,22.6 16.6,22.6 16.6,15.1 24.2,15.1'\/><\/g><\/g><\/g><g><g><g><polygon fill='#FFFFFF' points='0.4,10.8 11.2,10.8 11.2,0 7.9,0 7.9,7.5 0.4,7.5'\/><\/g><\/g><\/g><\/g>",
+    "PlayButtonOverlay": "60 59.8'><defs><linearGradient id='PB1_' gradientUnits='userSpaceOnUse' x1='-4.9' y1='48.2' x2='25.7' y2='-0.4' gradientTransform='matrix(1 0 0 -1 24.9 51.1)'><stop offset='0' style='stop-color:#FF8600'\/><stop offset='1' style='stop-color:#FF5C00'\/><\/linearGradient><linearGradient id='PB2_' gradientUnits='userSpaceOnUse' x1='-9.9' y1='45.1' x2='20.7' y2='-3.7' gradientTransform='matrix(1 0 0 -1 24.9 51.2)'><stop offset='0' style='stop-color:#FF3B00'\/><stop offset='1' style='stop-color:#FF2A5E'\/><\/linearGradient><linearGradient id='PB3_' gradientUnits='userSpaceOnUse' x1='31.7' y1='35' x2='0.8' y2='-1.7' gradientTransform='matrix(1 0 0 -1 24.9 51.2)'><stop offset='0' style='stop-color:#000;stop-opacity:0'\/><stop offset='1' style='stop-color:#000;stop-opacity:0.1'\/><\/linearGradient><\/defs><g><g><path fill='url(#PB1_)' d='M60,30c0-7.3-2.6-13.9-6.9-19.1c-0.7-0.1-1.4-0.1-2.2-0.1c-16.6,0-30,13.4-30,30 c0,7.3,2.6,13.9,6.9,19.1C28.5,60,29.3,60,30,60C46.6,60,60,46.6,60,30z'\/><circle fill='url(#PB2_)' cx='30' cy='30' r='30'\/><path fill='url(#PB3_)' d='M60,30c0-7.3-2.6-13.9-6.9-19.1c-0.7-0.1-1.4-0.1-2.2-0.1c-16.6,0-30,13.4-30,30 c0,7.3,2.6,13.9,6.9,19.1C28.5,60,29.3,60,30,60C46.6,60,60,46.6,60,30z'\/><\/g><g><path fill='#58595B' d='M19.6,46.7V17.1L51,31.9L19.6,46.7z M23.4,23.1v17.6L42,31.9L23.4,23.1z'\/><path fill='#FFF' d='M18.7,44.7V15l31.4,14.8L18.7,44.7z M22.5,21.1v17.6l18.6-8.8'\/><\/g><\/g>",
+    "MuteToggle": "",
+    "Muted": "",
+    "OpenShare": "40 40'><circle opacity='0.8' enable-background='new' cx='20' cy='20' r='20'\/><path fill='#fff' d='M24.5,23.6c-1.2,0-2.2,0.5-3,1.4l-6.3-3.7c0.2-0.4,0.2-0.9,0.2-1.3s-0.1-0.9-0.2-1.3l6.3-3.6 c0.7,0.9,1.8,1.5,3,1.5c2.2,0,3.9-1.7,3.9-3.9c0-2.2-1.7-3.9-3.9-3.9s-3.9,1.7-3.9,3.9c0,0.4,0.1,0.8,0.2,1.2l-6.3,3.7 c-0.7-0.8-1.8-1.4-3-1.4c-2.2,0-3.9,1.7-3.9,3.9c0,2.2,1.7,3.9,3.9,3.9c1.2,0,2.2-0.5,3-1.4l6.3,3.7c-0.2,0.4-0.2,0.9-0.2,1.3 c0,2.2,1.7,3.9,3.9,3.9s3.9-1.7,3.9-3.9C28.4,25.3,26.6,23.6,24.5,23.6z'\/>",
+    "BackButton": "40 40'><g><circle opacity='0.8' enable-background='new' cx='20' cy='20' r='20'\/><g><g><g><polygon fill='#FFFFFF' points='21.7,28.4 13.3,20 21.7,11.6 24.3,14.1 18.4,20 24.3,25.9'\/><\/g><\/g><\/g><\/g>",
+    "Link": "28 24.2'><g><path fill='#414042' d='M0,0v24.2h28V0H0z M13.1,17.9C13.1,17.9,13.1,17.9,13.1,17.9c-0.7,0.6-1.3,1.2-1.9,1.8 c-0.1,0-0.1,0-0.2,0.1c-1.2,0.8-2.5,1-3.8,0.5c-0.5-0.2-1-0.5-1.5-0.8c-0.2-0.2-0.3-0.3-0.5-0.5c0-0.1-0.1-0.1-0.1-0.2 c-0.9-1.3-1-2.7-0.4-4.1c0.2-0.4,0.5-0.8,0.7-1.2c1.2-1.1,2.4-2.2,3.6-3.3c0.4-0.2,0.7-0.4,1.1-0.6c1.6-0.6,3.4-0.2,4.5,1 c0.4,0.4,0.4,0.9,0.1,1.3c-0.3,0.4-0.8,0.6-1.2,0.4c-0.2-0.1-0.3-0.2-0.5-0.3c-0.8-0.8-2-0.9-2.9-0.1c-1.1,0.9-2.2,1.9-3.2,2.9 C6.3,15.6,6.3,17,7,17.8c0.8,0.8,2.1,0.9,2.9,0.1c0.5-0.4,1-0.9,1.5-1.4c0.4-0.4,1-0.5,1.4-0.1C13.3,16.8,13.4,17.3,13.1,17.9z M21,10.2c-0.2,0.4-0.5,0.8-0.8,1.2c-1.2,1.1-2.4,2.2-3.6,3.3c-0.5,0.2-1.1,0.6-1.6,0.7c-1.5,0.4-2.9,0-4-1.2 c-0.6-0.6-0.3-1.6,0.5-1.8c0.4-0.1,0.8,0,1,0.3c0.7,0.8,2,1,3,0.1c1-0.9,2-1.8,3-2.7c0.8-0.8,1-1.9,0.4-2.8c-0.7-1-2.2-1.2-3.1-0.4 c-0.5,0.4-1,0.9-1.5,1.4c-0.5,0.4-1,0.5-1.4,0.1c-0.5-0.4-0.5-0.9-0.2-1.4c0,0,0,0,0-0.1c0.7-0.6,1.3-1.2,2-1.8c0,0,0.1,0,0.1-0.1 c1.3-0.9,2.7-1,4.2-0.4C19.3,5,19.7,5.3,20,5.5c0.2,0.2,0.3,0.3,0.5,0.5c0,0.1,0.1,0.1,0.1,0.2C21.4,7.5,21.6,8.8,21,10.2z'\/><\/g>",
+    "Embed": "28 24.2'><g><path fill='#414042' d='M0,0v24.2h28V0H0z M9.9,15.5L9,17l-7-4.6l7-4.6l1,1.5l-4.7,3.1L9.9,15.5z M16.2,16.7l-5.5-7.6l1.4-1 l5.5,7.6L16.2,16.7z M18.9,17l-1-1.5l4.7-3.1l-4.7-3.1l1-1.5l7,4.6L18.9,17z'\/><\/g>",
+    "Facebook": "40 40'><path fill='#0077B5' d='M36,31c0,2.8-2.2,5-5,5H9c-2.8,0-5-2.2-5-5V9c0-2.8,2.2-5,5-5h22c2.8,0,5,2.2,5,5V31z'\/><g><path fill='#FFF' d='M21.1,12.3c0-0.7,0.7-0.9,1.1-0.9h3.2V7.3h-3.5c-2.9,0-5,2.4-5,5.9v2.6h-4.2V20h4.2v12.7h4.3V20h4.2v-4.2 h-4.2v-3.5H21.1z'\/><\/g>",
+    "Twitter": "40 40'><path fill='#00AFE9' d='M36,31c0,2.8-2.2,5-5,5H9c-2.8,0-5-2.2-5-5V9c0-2.8,2.2-5,5-5H31c2.8,0,5,2.2,5,5V31z'\/><g><path fill='#FFF' d='M31.5,18.9c1.7-0.1,2.8-0.9,3.2-1.9c-0.6,0.4-2.5,0.8-3.5,0.4c0-0.2-0.1-0.5-0.2-0.7 c-0.8-2.9-3.5-5.2-6.3-4.9c0.2-0.1,0.5-0.2,0.7-0.3c0.3-0.1,2.1-0.4,1.8-1.1c-0.2-0.6-2.5,0.4-2.9,0.6c0.6-0.2,1.5-0.6,1.6-1.2 c-0.8,0.1-1.7,0.5-2.3,1.1c0.2-0.2,0.4-0.6,0.4-0.9c-2.3,1.4-3.6,4.4-4.6,7.2c-0.8-0.8-1.6-1.5-2.2-1.8c-1.9-1-4.1-2-7.6-3.3 c-0.1,1.2,0.6,2.7,2.5,3.7c-0.4-0.1-1.2,0.1-1.8,0.2c0.3,1.3,1.1,2.4,3.3,3c-1,0.1-1.6,0.3-2,0.8c0.5,0.9,1.6,2,3.6,1.8 c-2.3,1-0.9,2.8,0.9,2.5c-3.2,3.3-8.1,3-11,0.3c7.5,10.2,23.7,6,26.1-3.8c1.8,0,2.9-0.6,3.5-1.3C33.8,19.4,32.3,19.2,31.5,18.9z'\/><\/g>",
+    "GooglePlus": "40 40'><path fill='#E85449' d='M36,31c0,2.8-2.2,5-5,5H9c-2.8,0-5-2.2-5-5V9c0-2.8,2.2-5,5-5h22c2.8,0,5,2.2,5,5V31z'\/><g><g><polygon fill='#FFF' points='28.7,8.2 25.6,8.2 25.6,11.3 22.4,11.3 22.4,14.5 25.6,14.5 25.6,17.7 28.7,17.7 28.7,14.5 31.9,14.5 31.9,11.3 28.7,11.3'\/><path fill='#FFF' d='M22.1,10.2c-2.5,0-4.8-0.1-7.2,0c-1.2,0-2.4,0.5-3.4,1.3c-1.6,1.3-2.3,2.9-1.9,4.9c0.4,1.9,1.7,3,3.6,3.4 c0.6,0.1,1.2,0.1,1.9,0.1c-0.4,1.1-0.1,2,0.6,2.9C15,23,14.5,23.1,14,23.1c-1.5,0.2-3,0.6-4.3,1.5c-2.4,1.9-2.1,5,0.7,6.4 c1.8,0.9,3.8,0.9,5.7,0.6c1.6-0.2,3.1-0.9,4.3-2.1c1.8-1.9,1.8-4.5-0.1-6.3c-0.7-0.6-1.4-1.2-2.1-1.8c-0.8-0.7-0.8-1.4-0.1-2.2 c0.4-0.4,0.9-0.7,1.3-1.1c1.8-1.7,1.9-4.3,0.3-6.2c-0.2-0.3-0.4-0.5-0.8-0.9C20.3,11.5,21.2,11,22.1,10.2z M18.9,25.5 c1.5,1.5,1.2,3.7-0.8,4.6c-0.8,0.3-1.7,0.4-2.6,0.7c-1-0.3-2-0.5-3-0.9c-1.1-0.5-1.8-1.5-1.7-2.8c0-1.3,0.7-2.2,1.8-2.5 c1.3-0.4,2.6-0.5,3.9-0.7c0.2,0,0.4,0.1,0.5,0.2C17.6,24.5,18.3,25,18.9,25.5z M16.5,19c-1.2,0.4-2.4,0-3.2-1.1 c-0.9-1.3-1.3-2.8-1.1-4.3c0.1-1,0.6-1.8,1.6-2.2s2-0.2,2.7,0.6c1.2,1.2,1.6,2.7,1.7,4C18.2,17.7,17.7,18.6,16.5,19z'\/><\/g><\/g>",
+    "Reddit": "40 40'><path fill='#ED1C24' d='M36,31c0,2.8-2.2,5-5,5H9c-2.8,0-5-2.2-5-5V9c0-2.8,2.2-5,5-5H31c2.8,0,5,2.2,5,5V31z'\/><g><path fill='#FFF' d='M15.9,23.7c1.1,0,1.9-0.9,1.9-1.9s-0.9-1.9-1.9-1.9c-1.1,0-1.9,0.9-1.9,1.9S14.8,23.7,15.9,23.7z'\/><path fill='#FFF' d='M24.5,23.7c1.1,0,1.9-0.9,1.9-1.9s-0.9-1.9-1.9-1.9c-1.1,0-1.9,0.9-1.9,1.9S23.4,23.7,24.5,23.7z'\/><path fill='#FFF' d='M15.5,26.3c-0.2,0.2-0.2,0.6,0,0.8c0,0,1.7,1.7,4.5,1.7c1.6,0,3.2-0.5,4.8-1.6c0.1-0.1,0.2-0.2,0.2-0.4 c0-0.1,0-0.3-0.1-0.4c-0.2-0.3-0.5-0.3-0.8-0.2c-1.4,0.9-2.9,1.4-4.2,1.4c-2.3,0-3.6-1.3-3.6-1.4C16.1,26.1,15.7,26.1,15.5,26.3z'\/><path fill='#FFF' d='M34.2,19.9c0-1.9-1.6-3.5-3.6-3.5c-0.6,0-1.3,0.2-1.8,0.5c-2.1-1.4-4.9-2.3-8-2.5l1.7-4.5l4.5,0.9 c0,0.1,0,0.1,0,0.1c0,1.5,1.2,2.7,2.7,2.7s2.7-1.2,2.7-2.7c0-1.5-1.2-2.7-2.7-2.7c-0.9,0-1.7,0.5-2.2,1.2l-5.3-1l-0.1,0 c-0.3,0-0.6,0.2-0.7,0.5l-2.1,5.6c-3.2,0.1-6,1-8.2,2.4c-0.5-0.3-1.1-0.5-1.7-0.5c-2,0-3.6,1.6-3.6,3.5c0,1.1,0.6,2.2,1.5,2.8 c0,0.1,0,0.2,0,0.3c0,4.8,5.7,8.7,12.6,8.7c7,0,12.6-3.9,12.6-8.7c0-0.1,0-0.1,0-0.2C33.5,22.2,34.2,21.1,34.2,19.9z M9.4,17.9 c0.1,0,0.2,0,0.3,0.1c-0.9,0.9-1.7,1.9-2.1,3c-0.2-0.3-0.3-0.7-0.3-1C7.4,18.8,8.3,17.9,9.4,17.9z M19.9,16.2 c6.1,0,11.1,3.1,11.1,6.9c0,3.8-5,6.9-11.1,6.9c-6.1,0-11.1-3.1-11.1-6.9C8.8,19.3,13.8,16.2,19.9,16.2z M30.1,18 c0.2,0,0.3-0.1,0.5-0.1c1.1,0,2,0.9,2,2c0,0.4-0.2,0.9-0.4,1.2C31.8,20,31.1,18.9,30.1,18z M29.8,12.1c-0.7,0-1.2-0.5-1.2-1.2 c0-0.7,0.5-1.2,1.2-1.2c0.7,0,1.2,0.5,1.2,1.2C30.9,11.6,30.4,12.1,29.8,12.1z'\/><\/g>",
+    "OpenPlaylist": "40 40'><circle opacity='0.8' enable-background='new' cx='20' cy='20' r='20'\/><rect x='11.6' y='10.3' fill='#FFFFFF' width='17.3' height='3.3'\/><rect x='11.6' y='18.4' fill='#FFFFFF' width='17.3' height='3.3'\/><rect x='11.6' y='26.4' fill='#FFFFFF' width='17.3' height='3.3'\/>",
+    "ThumbnailOverlay": "30 30'><path opacity='0.8' enable-background='new' d='M5.4,25V6.3l19.8,9.3L5.4,25z M7.8,10.1v11.1l11.7-5.5L7.8,10.1z'\/><path fill='#FFFFFF' d='M4.8,23.7V5l19.8,9.3L4.8,23.7z M7.2,8.8v11.1L19,14.4'\/>",
+    "captions": "19.7 11.4'><path opacity='0.8' enable-background='new' d='M5.7,11.4c-2.9,0-5.2-2.3-5.2-5.2c0-2.9,2.3-5.2,5.2-5.2c1.3,0,2.6,0.5,3.5,1.4 c0.4,0.4,0.5,1.1,0.1,1.5C8.9,4.3,8.2,4.3,7.7,3.9C7.2,3.4,6.4,3.1,5.7,3.1C4,3.1,2.6,4.5,2.6,6.2c0,1.7,1.4,3.1,3.1,3.1 c0.7,0,1.4-0.3,2-0.7c0.5-0.4,1.1-0.3,1.5,0.1C9.5,9.1,9.5,9.8,9,10.2C8.1,11,6.9,11.4,5.7,11.4z'\/><path fill='#FFFFFF' d='M5.2,10.5C2.3,10.5,0,8.1,0,5.2C0,2.3,2.3,0,5.2,0c1.3,0,2.6,0.5,3.5,1.4c0.4,0.4,0.5,1.1,0.1,1.5 C8.4,3.4,7.7,3.4,7.3,3C6.7,2.5,6,2.2,5.2,2.2c-1.7,0-3.1,1.4-3.1,3.1c0,1.7,1.4,3.1,3.1,3.1c0.7,0,1.4-0.3,2-0.7 c0.5-0.4,1.1-0.3,1.5,0.1C9.1,8.2,9,8.9,8.6,9.3C7.6,10,6.5,10.5,5.2,10.5z'\/><path opacity='0.8' enable-background='new' d='M15.8,11.4c-2.9,0-5.2-2.3-5.2-5.2c0-2.9,2.3-5.2,5.2-5.2c1.3,0,2.6,0.5,3.5,1.4 c0.4,0.4,0.5,1.1,0.1,1.5c-0.4,0.4-1.1,0.5-1.5,0.1c-0.6-0.5-1.3-0.8-2.1-0.8c-1.7,0-3.1,1.4-3.1,3.1c0,1.7,1.4,3.1,3.1,3.1 c0.7,0,1.4-0.3,2-0.7c0.5-0.4,1.1-0.3,1.5,0.1c0.4,0.5,0.3,1.1-0.1,1.5C18.2,11,17,11.4,15.8,11.4z'\/><path fill='#FFFFFF' d='M15.4,10.5c-2.9,0-5.2-2.3-5.2-5.2c0-2.9,2.3-5.2,5.2-5.2c1.3,0,2.6,0.5,3.5,1.4c0.4,0.4,0.5,1.1,0.1,1.5 c-0.4,0.4-1.1,0.5-1.5,0.1c-0.6-0.5-1.3-0.8-2.1-0.8c-1.7,0-3.1,1.4-3.1,3.1c0,1.7,1.4,3.1,3.1,3.1c0.7,0,1.4-0.3,2-0.7 c0.5-0.4,1.1-0.3,1.5,0.1c0.4,0.5,0.3,1.1-0.1,1.5C17.8,10,16.6,10.5,15.4,10.5z'\/>",
+    "ControlBarBg": "",
+    "ControlBarLeft": "",
+    "ControlBarRight": "",
+    "VolumeBarBg": "",
+    "VolumeBar": "",
+    "VolumeLevelOn": "",
+    "VolumeLevelOff": "",
+    "Scrubber": "",
+    "ProgressBar": "",
+    "PauseButtonOverlay": "60 59.8'><defs><linearGradient id='PO1_' gradientUnits='userSpaceOnUse' x1='-4.9' y1='48.3' x2='25.7' y2='-0.3' gradientTransform='matrix(1 0 0 -1 24.9 51.1)'><stop offset='0' style='stop-color:#FF8600'\/><stop offset='1' style='stop-color:#FF5C00'\/><\/linearGradient><linearGradient id='PO2_' gradientUnits='userSpaceOnUse' x1='-9.9' y1='45.2' x2='20.7' y2='-3.6' gradientTransform='matrix(1 0 0 -1 24.9 51.2)'><stop offset='0' style='stop-color:#FF3B00'\/><stop offset='1' style='stop-color:#FF2A5E'\/><\/linearGradient><linearGradient id='PO3_' gradientUnits='userSpaceOnUse' x1='31.7' y1='35' x2='0.8' y2='-1.6' gradientTransform='matrix(1 0 0 -1 24.9 51.2)'><stop offset='0' style='stop-color:#000;stop-opacity:0'\/><stop offset='1' style='stop-color:#000;stop-opacity:0.1'\/><\/linearGradient><\/defs><g><g><path fill='url(#PO1_)' d='M60,29.9c0-7.3-2.6-13.9-6.9-19.1c-0.7-0.1-1.4-0.1-2.2-0.1c-16.6,0-30,13.4-30,30 c0,7.3,2.6,13.9,6.9,19.1c0.7,0.1,1.4,0.1,2.2,0.1C46.6,59.9,60,46.5,60,29.9z'\/><circle fill='url(#PO2_)' cx='30' cy='29.9' r='30'\/><path fill='url(#PO3_)' d='M60,29.9c0-7.3-2.6-13.9-6.9-19.1c-0.7-0.1-1.4-0.1-2.2-0.1c-16.6,0-30,13.4-30,30 c0,7.3,2.6,13.9,6.9,19.1c0.7,0.1,1.4,0.1,2.2,0.1C46.6,59.9,60,46.5,60,29.9z'\/><\/g><g><rect x='21.1' y='17.9' fill='#58595B' width='6.2' height='25'\/><rect x='33.9' y='17.9' fill='#58595B' width='6.2' height='25'\/><rect x='19.9' y='16.9' fill='#FFF' width='6.2' height='25'\/><rect x='32.8' y='16.9' fill='#FFF' width='6.2' height='25'\/><\/g><\/g>",
+    "Next": "8.5 13.8'><g opacity='0.8' enable-background='new'><rect x='2.1' y='1.6' transform='matrix(0.7 -0.7 0.7 0.7 -2.6 3)' width='0.5' height='6'\/><polygon points='2,13.1 0.4,11.5 0,11.9 2,13.8 8.5,7.3 8.2,6.9'\/><\/g><g opacity='0.6'><g><g><polygon fill='#FFFFFF' points='2,13.1 8.5,6.6 2,0 0,2 4.6,6.6 0,11.2'\/><\/g><\/g><\/g>",
+    "Previous": "8.5 13.8'><g opacity='0.8' enable-background='new'><polygon points='4.3,6.9 8.5,2.7 8.2,2.4 6.8,3.7 4,6.6'\/><polygon points='0.4,6.9 0,7.3 6.6,13.8 8.5,11.9 8.2,11.5 6.6,13.1'\/><polygon points='6.6,13.1 8.2,11.5 8.2,11.5'\/><\/g><g opacity='0.6'><g><g><polygon fill='#FFFFFF' points='8.5,11.2 4,6.6 8.5,2 6.6,0 0,6.6 6.6,13.1'\/><\/g><\/g><\/g>",
+    "Repeat": "20.4 20'><path opacity='0.8' enable-background='new' d='M15.7,11.1c0,0.1,0,0.3,0,0.4c0,3.1-2.5,5.5-5.5,5.5s-5.5-2.5-5.5-5.5 C4.7,8.4,7.2,6,10.2,6v1.7l4.4-3.1l-4.4-3v1.7c-4.4,0-8,3.6-8,8c0,4.4,3.6,8,8,8s8-3.6,8-8c0.1-0.1,0.1-0.3,0.1-0.4L15.7,11.1z'\/><path fill='#FFFFFF' d='M15.7,10.1c0,0.1,0,0.2,0,0.4c0,3.1-2.5,5.5-5.5,5.5s-5.5-2.5-5.5-5.5C4.7,7.4,7.2,5,10.2,5v1.7l4.4-3.1 l-4.4-3v1.7c-4.4,0-8,3.6-8,8c0,4.4,3.6,8,8,8s8-3.6,8-8c0.1-0.1,0.1-0.2,0.1-0.4L15.7,10.1z'\/>",
+    "HDToggleOn": "22.1 11.4'><g><linearGradient id='HD_ACTIVEID1_' gradientUnits='userSpaceOnUse' x1='4.679' y1='11.6169' x2='4.679' y2='2.6149'><stop offset='0' style='stop-color:#FF3B00'\/><stop offset='1' style='stop-color:#FF2A5E'\/><\/linearGradient><polygon fill='url(#HD_ACTIVEID1_)' points='6.5,4 2.9,4 2.9,0 0,0 0,11.4 2.9,11.4 2.9,6.8 6.5,6.8 6.5,11.4 9.4,11.4 9.4,0 6.5,0'\/><linearGradient id='HD_ACTIVEID2_' gradientUnits='userSpaceOnUse' x1='17.1062' y1='11.6169' x2='17.1062' y2='2.6149'><stop offset='0' style='stop-color:#FF3B00'\/><stop offset='1' style='stop-color:#FF2A5E'\/><\/linearGradient><path fill='url(#HD_ACTIVEID2_)' d='M21.9,3.6c-0.1-0.7-0.4-1.3-0.7-1.8c-0.4-0.5-0.8-1-1.4-1.3C19.1,0.2,18.4,0,17.5,0h-5.4v11.4h5.4 c0.9,0,1.6-0.2,2.2-0.5c0.6-0.3,1.1-0.8,1.4-1.4c0.3-0.5,0.6-1.2,0.7-1.9C22,7,22.1,6.3,22.1,5.6C22.1,4.9,22,4.2,21.9,3.6z M15,2.8h2c0.5,0,0.8,0.1,1.1,0.2c0.3,0.1,0.4,0.3,0.6,0.5C18.8,3.7,18.9,4,19,4.4c0.1,0.4,0.1,0.8,0.1,1.2c0,0.4,0,0.9-0.1,1.3 c0,0.4-0.1,0.7-0.3,1c-0.1,0.2-0.3,0.4-0.6,0.6c-0.3,0.2-0.6,0.2-1.1,0.2h-2V2.8z'\/><\/g>",
+    "HDToggleOff": "22.1 11.4'><g opacity='0.45'><polygon fill='#FFFFFF' points='6.5,4 2.9,4 2.9,0 0,0 0,11.4 2.9,11.4 2.9,6.8 6.5,6.8 6.5,11.4 9.4,11.4 9.4,0 6.5,0'\/><path fill='#FFFFFF' d='M21.9,3.6c-0.1-0.7-0.4-1.3-0.7-1.8c-0.4-0.5-0.8-1-1.4-1.3C19.1,0.2,18.4,0,17.5,0h-5.4v11.4h5.4 c0.9,0,1.6-0.2,2.2-0.5c0.6-0.3,1.1-0.8,1.4-1.4c0.3-0.5,0.6-1.2,0.7-1.9C22,7,22.1,6.3,22.1,5.6C22.1,4.9,22,4.2,21.9,3.6z M15,2.8h2c0.5,0,0.8,0.1,1.1,0.2c0.3,0.1,0.4,0.3,0.6,0.5C18.8,3.7,18.9,4,19,4.4c0.1,0.4,0.1,0.8,0.1,1.2c0,0.4,0,0.9-0.1,1.3 c0,0.4-0.1,0.7-0.3,1c-0.1,0.2-0.3,0.4-0.6,0.6c-0.3,0.2-0.6,0.2-1.1,0.2h-2V2.8z'\/><\/g>",
+    "Close": "16.6 17'><g><polygon fill='#58595B' points='16.6,2.8 14.8,1.1 8.9,7.2 2.9,1.1 1.1,2.8 7.2,9 1.1,15.2 2.9,17 8.9,10.8 14.8,17 16.6,15.2 10.6,9'\/><polygon fill='#FFF' points='15.5,1.7 13.7,0 7.7,6.1 1.8,0 0,1.7 6,7.9 0,14.1 1.8,15.9 7.7,9.7 13.7,15.9 15.5,14.1 9.5,7.9 '\/><\/g>",
+    "Brand": "16.9 16.5'><path fill='#FFF' opacity='0.5' d='M13.5,0H3.3C1.5,0,0,1.5,0,3.3v9.9c0,1.8,1.5,3.3,3.3,3.3h10.3c1.8,0,3.3-1.5,3.3-3.3V3.3 C16.8,1.5,15.3,0,13.5,0z M8.5,5.3v0.2c0,0-0.2,0.1-0.3,0.1C7.9,5.7,7.1,5.7,6.6,5.8c-0.4,0-0.7,0.1-0.8,0.1c-0.1,0-0.1,0-0.1,0 C5.6,6.5,5.6,7.3,5.6,7.8c0,0.7,0,0.9,0,1.1c0,0.5,0,0.8,0,1l0,0c0,0.3,0,0.6,0,0.6c0,0.2,0,0.5,0,0.8c0,0.1,0,0.1,0,0.2 c0,0.1,0,0.1,0,0.2v0.1c0,0.2-0.2,0.4-0.4,0.5c-0.2,0-0.4,0-0.5-0.2c0-0.2-0.1-0.3-0.2-0.5c-0.1-0.3-0.1-0.6-0.1-1.3 c0-0.2,0-1,0-1.2c0-0.1,0-0.9,0.1-1.7c0-0.6,0-1.2,0.1-1.6C4,5.9,3.8,5.9,3.2,6.1c-0.6,0.1-0.8,0.2-1,0.2C2.1,6.3,2,6.2,2,6.2 C1.9,6.1,1.9,6,1.9,6c0-0.1,0-0.1,0-0.2c0,0,0-0.1,0-0.2c0,0.2,0,0,0.2,0C3,5.4,4.5,5.1,5.5,4.9c0.8-0.1,2.1-0.3,2.4-0.4 c0.1,0,0.1,0,0.1,0s0.1,0,0.2,0c0.1,0,0,0,0.1,0l0.1,0.1c0,0,0,0.1,0.1,0.1c0,0,0.1,0.1,0,0.1v0.1c0,0,0,0,0,0.1 C8.5,5.2,8.5,5.3,8.5,5.3z M14.4,5.3c-0.1,0-0.2,0.3-0.3,0.3C14,5.8,13.2,7.8,13,8.4c-0.2,0.6-0.4,1.2-0.8,2.1 c-0.3,0.7-0.5,1.6-1.1,1.6c-0.5,0-1-0.8-1.2-1.3S9.5,9.4,9.3,8.6C9.2,7.8,9,6.7,8.9,6.1c0-0.1,0-0.2,0-0.2c0-0.1,0-0.2,0-0.4 c0-0.3,0.2-0.7,0.4-0.7c0.1,0,0.3,0.1,0.4,0.1C9.8,5,10,5.2,10,5.5s0.1,1.3,0.1,1.7c0,0.5,0.2,1.3,0.3,2c0.1,0.6,0.3,1.3,0.4,1.3 c0.1,0,0.2-0.2,0.4-0.6C11.5,9.3,11.8,8.4,12,8c0.2-0.5,0.4-1,0.6-1.6c0.2-0.6,0.3-1.2,0.3-1.2c0-0.1,0.1-0.3,0.1-0.4 c0-0.1,0.1-0.2,0.3-0.3c0.2-0.1,0.4-0.2,0.5-0.2c0.1,0,0.3,0.1,0.4,0.2c0.1,0.1,0.2,0.3,0.2,0.4C14.6,5,14.5,5.2,14.4,5.3z'\/>",
+    "BrandMini": "",
+    "BrandOver": "16.9 16.5'><g><linearGradient id='BRANDOVER_' gradientUnits='userSpaceOnUse' x1='16.7195' y1='784.741' x2='33.6189' y2='784.741' gradientTransform='matrix(1 0 0 1 -16.7197 -776.4902)'><stop  offset='0' style='stop-color:#FF3B00'\/><stop  offset='1' style='stop-color:#FF2A5E'\/><\/linearGradient><path class='brand-bg' fill='url(#BRANDOVER_)' d='M13.5,0H3.3C1.5,0,0,1.5,0,3.3v9.9c0,1.8,1.5,3.3,3.3,3.3h10.3c1.8,0,3.3-1.5,3.3-3.3V3.3 C16.8,1.5,15.3,0,13.5,0z'\/><g><path fill='#FFF' d='M2.2,6.3c0.2,0,0.4-0.1,1-0.2C3.8,5.9,4,5.9,4.6,5.8c-0.1,0.4-0.1,1-0.1,1.6C4.4,8.2,4.4,9,4.4,9.1 c0,0.2,0,1,0,1.2c0,0.7,0,1,0.1,1.3c0.1,0.2,0.2,0.3,0.2,0.5c0.1,0.2,0.3,0.2,0.5,0.2c0.2-0.1,0.4-0.3,0.4-0.5v-0.1 c0-0.1,0-0.1,0-0.2c0-0.1,0-0.1,0-0.2c0-0.3,0-0.6,0-0.8c0,0,0-0.3,0-0.6c0-0.2,0-0.5,0-1c0-0.2,0-0.4,0-1.1c0-0.5,0-1.3,0.1-1.9 c0,0,0,0,0.1,0c0.1,0,0.4-0.1,0.8-0.1c0.5-0.1,1.3-0.1,1.6-0.2c0.1,0,0.3-0.1,0.3-0.1V5.3c0,0,0-0.1,0-0.3c0-0.1,0-0.1,0-0.1V4.8 c0.1,0,0-0.1,0-0.1c-0.1,0-0.1-0.1-0.1-0.1L8.3,4.5c-0.1,0,0,0-0.1,0c-0.1,0-0.2,0-0.2,0s0,0-0.1,0C7.6,4.6,6.3,4.8,5.5,4.9 C4.5,5.1,3,5.4,2.1,5.6c-0.2,0-0.2,0.2-0.2,0c0,0.1,0,0.2,0,0.2c0,0.1,0,0.1,0,0.2c0,0,0,0.1,0.1,0.2C2,6.2,2.1,6.3,2.2,6.3z'\/><path fill='#FFF' d='M9.9,10.8c0.2,0.5,0.7,1.3,1.2,1.3c0.6,0,0.8-0.9,1.1-1.6C12.6,9.6,12.8,9,13,8.4c0.2-0.6,1-2.6,1.1-2.8 c0.1,0,0.2-0.3,0.3-0.3c0.1-0.1,0.2-0.3,0-0.4c0-0.1-0.1-0.3-0.2-0.4c-0.1-0.1-0.3-0.2-0.4-0.2c-0.1,0-0.3,0.1-0.5,0.2 C13.1,4.6,13,4.7,13,4.8c0,0.1-0.1,0.3-0.1,0.4c0,0-0.1,0.6-0.3,1.2C12.4,7,12.2,7.5,12,8c-0.2,0.4-0.5,1.3-0.8,1.9 c-0.2,0.4-0.3,0.6-0.4,0.6c-0.1,0-0.3-0.7-0.4-1.3c-0.1-0.7-0.3-1.5-0.3-2c0-0.4-0.1-1.4-0.1-1.7S9.8,5,9.7,4.9 c-0.1,0-0.3-0.1-0.4-0.1c-0.2,0-0.4,0.4-0.4,0.7c0,0.2,0,0.3,0,0.4c0,0,0,0.1,0,0.2C9,6.7,9.2,7.8,9.3,8.6 C9.5,9.4,9.7,10.3,9.9,10.8z'\/><\/g><\/g>"
+  },
+  "Ad": [
+    {
+      "id": "11306",
+      "unit_id": null,
+      "adTagUrl": [],
+      "flashAdTagUrl": [],
+      "adTagUrlThird": null,
+      "adTagUrlFourth": null,
+      "flashAdTagUrlThird": null,
+      "flashAdTagUrlFourth": null,
+      "adType": "0",
+      "adTimeType": "s",
+      "overlayStartAt": null,
+      "overlayDuration": null,
+      "cuepoints": null
+    }
+  ],
+  "Style": {
+    "id": "1",
+    "name": "brid.css",
+    "skinClass": "brid-default-skin"
+  },
+  "Playlist": {
+    "id": "2900",
+    "name": "Dragon Ball 1-153",
+    "items": 153,
+    "page": 1,
+    "limit": 50
+  },
+  "Video": [
+    {
+      "id": "103817",
+      "name": "db001",
+      "description": "",
+      "image": "\/\/dragonballcomplete.com\/wp-content\/uploads\/2017\/02\/db01.jpg",
+      "thumbnail": "\/\/cdn.brid.tv\/live\/partners\/5625\/thumb\/103817_t_1488235240.jpg",
+      "duration": "1244",
+      "monetize": true,
+      "age_gate_id": "1",
+      "source": {
+        "sd": "https:\/\/cldup.com\/3jX-VsezMm.mp4"
+      }
+    },
+    {
+      "id": "103818",
+      "name": "db002",
+      "description": "",
+      "image": "\/\/dragonballcomplete.com\/wp-content\/uploads\/2017\/02\/db02.jpg",
+      "thumbnail": "\/\/cdn.brid.tv\/live\/partners\/5625\/thumb\/103818_t_1488235254.jpg",
+      "duration": "1244",
+      "monetize": true,
+      "age_gate_id": "1",
+      "source": {
+        "sd": "https:\/\/cldup.com\/4G-tM8xaNl.mp4"
+      }
+    },
+    {
+      "id": "103819",
+      "name": "db003",
+      "description": "",
+      "image": "\/\/dragonballcomplete.com\/wp-content\/uploads\/2017\/02\/db03.jpg",
+      "thumbnail": "\/\/cdn.brid.tv\/live\/partners\/5625\/thumb\/103819_t_1488235271.jpg",
+      "duration": "1244",
+      "monetize": true,
+      "age_gate_id": "1",
+      "source": {
+        "sd": "https:\/\/cldup.com\/9mXjtUAjSx.mp4"
+      }
+    },
+    {
+      "id": "103820",
+      "name": "db004",
+      "description": "",
+      "image": "\/\/dragonballcomplete.com\/wp-content\/uploads\/2017\/02\/db04.jpg",
+      "thumbnail": "\/\/cdn.brid.tv\/live\/partners\/5625\/thumb\/103820_t_1488235284.jpg",
+      "duration": "1244",
+      "monetize": true,
+      "age_gate_id": "1",
+      "source": {
+        "sd": "https:\/\/cldup.com\/E2I2HV1GaH.mp4"
+      }
+    },
+    {
+      "id": "103821",
+      "name": "db005",
+      "description": "",
+      "image": "\/\/dragonballcomplete.com\/wp-content\/uploads\/2017\/02\/db05.jpg",
+      "thumbnail": "\/\/cdn.brid.tv\/live\/partners\/5625\/thumb\/103821_t_1488235298.jpg",
+      "duration": "1244",
+      "monetize": true,
+      "age_gate_id": "1",
+      "source": {
+        "sd": "https:\/\/cldup.com\/ZPm9j76xwd.mp4"
+      }
+    },
+    {
+      "id": "103822",
+      "name": "db006",
+      "description": "",
+      "image": "\/\/dragonballcomplete.com\/wp-content\/uploads\/2017\/02\/db06.jpg",
+      "thumbnail": "\/\/cdn.brid.tv\/live\/partners\/5625\/thumb\/103822_t_1488235315.jpg",
+      "duration": "1244",
+      "monetize": true,
+      "age_gate_id": "1",
+      "source": {
+        "sd": "https:\/\/cldup.com\/QbiAIdQwyq.mp4"
+      }
+    },
+    {
+      "id": "103823",
+      "name": "db007",
+      "description": "",
+      "image": "\/\/dragonballcomplete.com\/wp-content\/uploads\/2017\/02\/db07.jpg",
+      "thumbnail": "\/\/cdn.brid.tv\/live\/partners\/5625\/thumb\/103823_t_1488235329.jpg",
+      "duration": "1244",
+      "monetize": true,
+      "age_gate_id": "1",
+      "source": {
+        "sd": "https:\/\/cldup.com\/7Zk0_w9pF9.mp4"
+      }
+    },
+    {
+      "id": "103824",
+      "name": "db008",
+      "description": "",
+      "image": "\/\/dragonballcomplete.com\/wp-content\/uploads\/2017\/02\/db08.jpg",
+      "thumbnail": "\/\/cdn.brid.tv\/live\/partners\/5625\/thumb\/103824_t_1488235345.jpg",
+      "duration": "1244",
+      "monetize": true,
+      "age_gate_id": "1",
+      "source": {
+        "sd": "https:\/\/cldup.com\/uvxmypKixn.mp4"
+      }
+    },
+    {
+      "id": "103825",
+      "name": "db009",
+      "description": "",
+      "image": "\/\/dragonballcomplete.com\/wp-content\/uploads\/2017\/02\/db09.jpg",
+      "thumbnail": "\/\/cdn.brid.tv\/live\/partners\/5625\/thumb\/103825_t_1488235361.jpg",
+      "duration": "1244",
+      "monetize": true,
+      "age_gate_id": "1",
+      "source": {
+        "sd": "https:\/\/cldup.com\/lzW1Qo1RqQ.mp4"
+      }
+    },
+    {
+      "id": "103826",
+      "name": "db010",
+      "description": "",
+      "image": "\/\/dragonballcomplete.com\/wp-content\/uploads\/2017\/02\/db10.jpg",
+      "thumbnail": "\/\/cdn.brid.tv\/live\/partners\/5625\/thumb\/103826_t_1488235378.jpg",
+      "duration": "1244",
+      "monetize": true,
+      "age_gate_id": "1",
+      "source": {
+        "sd": "https:\/\/cldup.com\/ko9TgfcYJO.mp4"
+      }
+    },
+    {
+      "id": "103827",
+      "name": "db011",
+      "description": "",
+      "image": "\/\/dragonballcomplete.com\/wp-content\/uploads\/2017\/02\/db11.jpg",
+      "thumbnail": "\/\/cdn.brid.tv\/live\/partners\/5625\/thumb\/103827_t_1488235413.jpg",
+      "duration": "1244",
+      "monetize": true,
+      "age_gate_id": "1",
+      "source": {
+        "sd": "https:\/\/cldup.com\/yoE7bQtPZz.mp4"
+      }
+    },
+    {
+      "id": "103828",
+      "name": "db012",
+      "description": "",
+      "image": "\/\/dragonballcomplete.com\/wp-content\/uploads\/2017\/02\/db12.jpg",
+      "thumbnail": "\/\/cdn.brid.tv\/live\/partners\/5625\/thumb\/103828_t_1488235426.jpg",
+      "duration": "1244",
+      "monetize": true,
+      "age_gate_id": "1",
+      "source": {
+        "sd": "https:\/\/cldup.com\/Sm4ktrW9Xd.mp4"
+      }
+    },
+    {
+      "id": "103829",
+      "name": "db013",
+      "description": "",
+      "image": "\/\/dragonballcomplete.com\/wp-content\/uploads\/2017\/02\/db13.jpg",
+      "thumbnail": "\/\/cdn.brid.tv\/live\/partners\/5625\/thumb\/103829_t_1488235440.jpg",
+      "duration": "1244",
+      "monetize": true,
+      "age_gate_id": "1",
+      "source": {
+        "sd": "https:\/\/cldup.com\/rcsBQlXzy6.mp4"
+      }
+    },
+    {
+      "id": "103830",
+      "name": "db014",
+      "description": "",
+      "image": "\/\/dragonballcomplete.com\/wp-content\/uploads\/2017\/02\/db14.jpg",
+      "thumbnail": "\/\/cdn.brid.tv\/live\/partners\/5625\/thumb\/103830_t_1488235454.jpg",
+      "duration": "1244",
+      "monetize": true,
+      "age_gate_id": "1",
+      "source": {
+        "sd": "https:\/\/cldup.com\/7TeLNwsnV4.mp4"
+      }
+    },
+    {
+      "id": "103831",
+      "name": "db015",
+      "description": "",
+      "image": "\/\/dragonballcomplete.com\/wp-content\/uploads\/2017\/02\/db15.jpg",
+      "thumbnail": "\/\/cdn.brid.tv\/live\/partners\/5625\/thumb\/103831_t_1488235471.jpg",
+      "duration": "1244",
+      "monetize": true,
+      "age_gate_id": "1",
+      "source": {
+        "sd": "https:\/\/cldup.com\/SnkR0Bem3m.mp4"
+      }
+    },
+    {
+      "id": "103812",
+      "name": "db016",
+      "description": "",
+      "image": "\/\/dragonballcomplete.com\/wp-content\/uploads\/2017\/02\/db16.jpg",
+      "thumbnail": "\/\/cdn.brid.tv\/live\/partners\/5625\/thumb\/103812_t_1488238997.jpg",
+      "duration": "1244",
+      "monetize": true,
+      "age_gate_id": "1",
+      "source": {
+        "sd": "https:\/\/cldup.com\/mYOyl64bmc.mp4"
+      }
+    },
+    {
+      "id": "103813",
+      "name": "db017",
+      "description": "",
+      "image": "\/\/dragonballcomplete.com\/wp-content\/uploads\/2017\/02\/db17.jpg",
+      "thumbnail": "\/\/cdn.brid.tv\/live\/partners\/5625\/thumb\/103813_t_1488239016.jpg",
+      "duration": "1244",
+      "monetize": true,
+      "age_gate_id": "1",
+      "source": {
+        "sd": "https:\/\/cldup.com\/ORm5Jm5aC7.mp4"
+      }
+    },
+    {
+      "id": "103814",
+      "name": "db018",
+      "description": "",
+      "image": "\/\/dragonballcomplete.com\/wp-content\/uploads\/2017\/02\/db18.jpg",
+      "thumbnail": "\/\/cdn.brid.tv\/live\/partners\/5625\/thumb\/103814_t_1488239029.jpg",
+      "duration": "1244",
+      "monetize": true,
+      "age_gate_id": "1",
+      "source": {
+        "sd": "https:\/\/cldup.com\/-FJMsc85q7.mp4"
+      }
+    },
+    {
+      "id": "103815",
+      "name": "db019",
+      "description": "",
+      "image": "\/\/dragonballcomplete.com\/wp-content\/uploads\/2017\/02\/db19.jpg",
+      "thumbnail": "\/\/cdn.brid.tv\/live\/partners\/5625\/thumb\/103815_t_1488238947.jpg",
+      "duration": "1244",
+      "monetize": true,
+      "age_gate_id": "1",
+      "source": {
+        "sd": "https:\/\/cldup.com\/XrSDm9MEy1.mp4"
+      }
+    },
+    {
+      "id": "103816",
+      "name": "db020",
+      "description": "",
+      "image": "\/\/dragonballcomplete.com\/wp-content\/uploads\/2017\/02\/db20.jpg",
+      "thumbnail": "\/\/cdn.brid.tv\/live\/partners\/5625\/thumb\/103816_t_1488238933.jpg",
+      "duration": "1244",
+      "monetize": true,
+      "age_gate_id": "1",
+      "source": {
+        "sd": "https:\/\/cldup.com\/C5yQzdJ7LR.mp4"
+      }
+    },
+    {
+      "id": "103832",
+      "name": "db021",
+      "description": "",
+      "image": "\/\/dragonballcomplete.com\/wp-content\/uploads\/2017\/02\/db21.jpg",
+      "thumbnail": "\/\/cdn.brid.tv\/live\/partners\/5625\/thumb\/103832_t_1488235496.jpg",
+      "duration": "1244",
+      "monetize": true,
+      "age_gate_id": "1",
+      "source": {
+        "sd": "https:\/\/cldup.com\/aK5uPCfaQu.mp4"
+      }
+    },
+    {
+      "id": "103833",
+      "name": "db022",
+      "description": "",
+      "image": "\/\/dragonballcomplete.com\/wp-content\/uploads\/2017\/02\/db22.jpg",
+      "thumbnail": "\/\/cdn.brid.tv\/live\/partners\/5625\/thumb\/103833_t_1488235511.jpg",
+      "duration": "1244",
+      "monetize": true,
+      "age_gate_id": "1",
+      "source": {
+        "sd": "https:\/\/cldup.com\/SumcWPdbkV.mp4"
+      }
+    },
+    {
+      "id": "103834",
+      "name": "db023",
+      "description": "",
+      "image": "\/\/dragonballcomplete.com\/wp-content\/uploads\/2017\/02\/db23.jpg",
+      "thumbnail": "\/\/cdn.brid.tv\/live\/partners\/5625\/thumb\/103834_t_1488235527.jpg",
+      "duration": "1244",
+      "monetize": true,
+      "age_gate_id": "1",
+      "source": {
+        "sd": "https:\/\/cldup.com\/n0AnNgogDx.mp4"
+      }
+    },
+    {
+      "id": "103835",
+      "name": "db024",
+      "description": "",
+      "image": "\/\/dragonballcomplete.com\/wp-content\/uploads\/2017\/02\/db24.jpg",
+      "thumbnail": "\/\/cdn.brid.tv\/live\/partners\/5625\/thumb\/103835_t_1488235543.jpg",
+      "duration": "1244",
+      "monetize": true,
+      "age_gate_id": "1",
+      "source": {
+        "sd": "https:\/\/cldup.com\/NmSXyza2zH.mp4"
+      }
+    },
+    {
+      "id": "103836",
+      "name": "db025",
+      "description": "",
+      "image": "\/\/dragonballcomplete.com\/wp-content\/uploads\/2017\/02\/db25.jpg",
+      "thumbnail": "\/\/cdn.brid.tv\/live\/partners\/5625\/thumb\/103836_t_1488235558.jpg",
+      "duration": "1244",
+      "monetize": true,
+      "age_gate_id": "1",
+      "source": {
+        "sd": "https:\/\/cldup.com\/RuWrDHvm90.mp4"
+      }
+    },
+    {
+      "id": "103837",
+      "name": "db026",
+      "description": "",
+      "image": "\/\/dragonballcomplete.com\/wp-content\/uploads\/2017\/02\/db26.jpg",
+      "thumbnail": "\/\/cdn.brid.tv\/live\/partners\/5625\/thumb\/103837_t_1488235592.jpg",
+      "duration": "1244",
+      "monetize": true,
+      "age_gate_id": "1",
+      "source": {
+        "sd": "https:\/\/cldup.com\/V2V9Zf7Td8.mp4"
+      }
+    },
+    {
+      "id": "103838",
+      "name": "db027",
+      "description": "",
+      "image": "\/\/dragonballcomplete.com\/wp-content\/uploads\/2017\/02\/db27.jpg",
+      "thumbnail": "\/\/cdn.brid.tv\/live\/partners\/5625\/thumb\/103838_t_1488235609.jpg",
+      "duration": "1244",
+      "monetize": true,
+      "age_gate_id": "1",
+      "source": {
+        "sd": "https:\/\/cldup.com\/dzh7rY4UNX.mp4"
+      }
+    },
+    {
+      "id": "103839",
+      "name": "db028",
+      "description": "",
+      "image": "\/\/dragonballcomplete.com\/wp-content\/uploads\/2017\/02\/db28.jpg",
+      "thumbnail": "\/\/cdn.brid.tv\/live\/partners\/5625\/thumb\/103839_t_1488235623.jpg",
+      "duration": "1244",
+      "monetize": true,
+      "age_gate_id": "1",
+      "source": {
+        "sd": "https:\/\/cldup.com\/oj7e2y8Aki.mp4"
+      }
+    },
+    {
+      "id": "103840",
+      "name": "db029",
+      "description": "",
+      "image": "\/\/dragonballcomplete.com\/wp-content\/uploads\/2017\/02\/db29.jpg",
+      "thumbnail": "\/\/cdn.brid.tv\/live\/partners\/5625\/thumb\/103840_t_1488235638.jpg",
+      "duration": "1244",
+      "monetize": true,
+      "age_gate_id": "1",
+      "source": {
+        "sd": "https:\/\/cldup.com\/zjjeMu-fUB.mp4"
+      }
+    },
+    {
+      "id": "103841",
+      "name": "db030",
+      "description": "",
+      "image": "\/\/dragonballcomplete.com\/wp-content\/uploads\/2017\/02\/db30.jpg",
+      "thumbnail": "\/\/cdn.brid.tv\/live\/partners\/5625\/thumb\/103841_t_1488235655.jpg",
+      "duration": "1244",
+      "monetize": true,
+      "age_gate_id": "1",
+      "source": {
+        "sd": "https:\/\/cldup.com\/N2j-SdDHiZ.mp4"
+      }
+    },
+    {
+      "id": "103842",
+      "name": "db031",
+      "description": "",
+      "image": "\/\/dragonballcomplete.com\/wp-content\/uploads\/2017\/02\/db31.jpg",
+      "thumbnail": "\/\/cdn.brid.tv\/live\/partners\/5625\/thumb\/103842_t_1488235668.jpg",
+      "duration": "1244",
+      "monetize": true,
+      "age_gate_id": "1",
+      "source": {
+        "sd": "https:\/\/cldup.com\/FESg9-CKM5.mp4"
+      }
+    },
+    {
+      "id": "103843",
+      "name": "db032",
+      "description": "",
+      "image": "\/\/dragonballcomplete.com\/wp-content\/uploads\/2017\/02\/db32.jpg",
+      "thumbnail": "\/\/cdn.brid.tv\/live\/partners\/5625\/thumb\/103843_t_1488235682.jpg",
+      "duration": "1244",
+      "monetize": true,
+      "age_gate_id": "1",
+      "source": {
+        "sd": "https:\/\/cldup.com\/syi0aooZBz.mp4"
+      }
+    },
+    {
+      "id": "103844",
+      "name": "db033",
+      "description": "",
+      "image": "\/\/dragonballcomplete.com\/wp-content\/uploads\/2017\/02\/db33.jpg",
+      "thumbnail": "\/\/cdn.brid.tv\/live\/partners\/5625\/thumb\/103844_t_1488235695.jpg",
+      "duration": "1244",
+      "monetize": true,
+      "age_gate_id": "1",
+      "source": {
+        "sd": "https:\/\/cldup.com\/_TSL6M9zNu.mp4"
+      }
+    },
+    {
+      "id": "103845",
+      "name": "db034",
+      "description": "",
+      "image": "\/\/dragonballcomplete.com\/wp-content\/uploads\/2017\/02\/db34.jpg",
+      "thumbnail": "\/\/cdn.brid.tv\/live\/partners\/5625\/thumb\/103845_t_1488235708.jpg",
+      "duration": "1244",
+      "monetize": true,
+      "age_gate_id": "1",
+      "source": {
+        "sd": "https:\/\/cldup.com\/-zhD7U21Lv.mp4"
+      }
+    },
+    {
+      "id": "103846",
+      "name": "db035",
+      "description": "",
+      "image": "\/\/dragonballcomplete.com\/wp-content\/uploads\/2017\/02\/db35.jpg",
+      "thumbnail": "\/\/cdn.brid.tv\/live\/partners\/5625\/thumb\/103846_t_1488235761.jpg",
+      "duration": "1244",
+      "monetize": true,
+      "age_gate_id": "1",
+      "source": {
+        "sd": "https:\/\/cldup.com\/iWkT-jgk2U.mp4"
+      }
+    },
+    {
+      "id": "103847",
+      "name": "db036",
+      "description": "",
+      "image": "\/\/dragonballcomplete.com\/wp-content\/uploads\/2017\/02\/db36.jpg",
+      "thumbnail": "\/\/cdn.brid.tv\/live\/partners\/5625\/thumb\/103847_t_1488235792.jpg",
+      "duration": "1244",
+      "monetize": true,
+      "age_gate_id": "1",
+      "source": {
+        "sd": "https:\/\/cldup.com\/KszT6tO7PH.mp4"
+      }
+    },
+    {
+      "id": "103848",
+      "name": "db037",
+      "description": "",
+      "image": "\/\/dragonballcomplete.com\/wp-content\/uploads\/2017\/02\/db37.jpg",
+      "thumbnail": "\/\/cdn.brid.tv\/live\/partners\/5625\/thumb\/103848_t_1488235809.jpg",
+      "duration": "1244",
+      "monetize": true,
+      "age_gate_id": "1",
+      "source": {
+        "sd": "https:\/\/cldup.com\/hiXnTBCG2L.mp4"
+      }
+    },
+    {
+      "id": "103849",
+      "name": "db038",
+      "description": "",
+      "image": "\/\/dragonballcomplete.com\/wp-content\/uploads\/2017\/02\/db38.jpg",
+      "thumbnail": "",
+      "duration": "1244",
+      "monetize": true,
+      "age_gate_id": "1",
+      "source": {
+        "sd": "https:\/\/cldup.com\/0JWfPhwZJ7.mp4"
+      }
+    },
+    {
+      "id": "103850",
+      "name": "db039",
+      "description": "",
+      "image": "\/\/dragonballcomplete.com\/wp-content\/uploads\/2017\/02\/db39.jpg",
+      "thumbnail": "\/\/cdn.brid.tv\/live\/partners\/5625\/thumb\/103850_t_1488235926.jpg",
+      "duration": "1244",
+      "monetize": true,
+      "age_gate_id": "1",
+      "source": {
+        "sd": "https:\/\/cldup.com\/xlneRRh1qc.mp4"
+      }
+    },
+    {
+      "id": "103851",
+      "name": "db040",
+      "description": "",
+      "image": "\/\/dragonballcomplete.com\/wp-content\/uploads\/2017\/02\/db40.jpg",
+      "thumbnail": "\/\/cdn.brid.tv\/live\/partners\/5625\/thumb\/103851_t_1488235975.jpg",
+      "duration": "1244",
+      "monetize": true,
+      "age_gate_id": "1",
+      "source": {
+        "sd": "https:\/\/cldup.com\/EavJxwU9Z3.mp4"
+      }
+    },
+    {
+      "id": "103852",
+      "name": "db041",
+      "description": "",
+      "image": "\/\/dragonballcomplete.com\/wp-content\/uploads\/2017\/02\/db41.jpg",
+      "thumbnail": "\/\/cdn.brid.tv\/live\/partners\/5625\/thumb\/103852_t_1488235987.jpg",
+      "duration": "1244",
+      "monetize": true,
+      "age_gate_id": "1",
+      "source": {
+        "sd": "https:\/\/cldup.com\/UlpKCPn8do.mp4"
+      }
+    },
+    {
+      "id": "103853",
+      "name": "db042",
+      "description": "",
+      "image": "\/\/dragonballcomplete.com\/wp-content\/uploads\/2017\/02\/db42.jpg",
+      "thumbnail": "\/\/cdn.brid.tv\/live\/partners\/5625\/thumb\/103853_t_1488236000.jpg",
+      "duration": "1244",
+      "monetize": true,
+      "age_gate_id": "1",
+      "source": {
+        "sd": "https:\/\/cldup.com\/QocRBpm_1C.mp4"
+      }
+    },
+    {
+      "id": "103854",
+      "name": "db043",
+      "description": "",
+      "image": "\/\/dragonballcomplete.com\/wp-content\/uploads\/2017\/02\/db43.jpg",
+      "thumbnail": "\/\/cdn.brid.tv\/live\/partners\/5625\/thumb\/103854_t_1488236012.jpg",
+      "duration": "1244",
+      "monetize": true,
+      "age_gate_id": "1",
+      "source": {
+        "sd": "https:\/\/cldup.com\/7HK1QsDHSs.mp4"
+      }
+    },
+    {
+      "id": "103855",
+      "name": "db044",
+      "description": "",
+      "image": "\/\/dragonballcomplete.com\/wp-content\/uploads\/2017\/02\/db44.jpg",
+      "thumbnail": "\/\/cdn.brid.tv\/live\/partners\/5625\/thumb\/103855_t_1488236025.jpg",
+      "duration": "1244",
+      "monetize": true,
+      "age_gate_id": "1",
+      "source": {
+        "sd": "https:\/\/cldup.com\/btoufABkxQ.mp4"
+      }
+    },
+    {
+      "id": "103856",
+      "name": "db045",
+      "description": "",
+      "image": "\/\/dragonballcomplete.com\/wp-content\/uploads\/2017\/02\/db45.jpg",
+      "thumbnail": "\/\/cdn.brid.tv\/live\/partners\/5625\/thumb\/103856_t_1488236065.jpg",
+      "duration": "1244",
+      "monetize": true,
+      "age_gate_id": "1",
+      "source": {
+        "sd": "https:\/\/cldup.com\/IDTj7JOdK3.mp4"
+      }
+    },
+    {
+      "id": "103857",
+      "name": "db046",
+      "description": "",
+      "image": "\/\/dragonballcomplete.com\/wp-content\/uploads\/2017\/02\/db46.jpg",
+      "thumbnail": "",
+      "duration": "1244",
+      "monetize": true,
+      "age_gate_id": "1",
+      "source": {
+        "sd": "https:\/\/cldup.com\/sFW_2GWzfZ.mp4"
+      }
+    },
+    {
+      "id": "103858",
+      "name": "db047",
+      "description": "",
+      "image": "\/\/dragonballcomplete.com\/wp-content\/uploads\/2017\/02\/db47.jpg",
+      "thumbnail": "\/\/cdn.brid.tv\/live\/partners\/5625\/thumb\/103858_t_1488236215.jpg",
+      "duration": "1244",
+      "monetize": true,
+      "age_gate_id": "1",
+      "source": {
+        "sd": "https:\/\/cldup.com\/nW6fdjJ1Pr.mp4"
+      }
+    },
+    {
+      "id": "103859",
+      "name": "db048",
+      "description": "",
+      "image": "\/\/dragonballcomplete.com\/wp-content\/uploads\/2017\/02\/db48.jpg",
+      "thumbnail": "\/\/cdn.brid.tv\/live\/partners\/5625\/thumb\/103859_t_1488236229.jpg",
+      "duration": "1244",
+      "monetize": true,
+      "age_gate_id": "1",
+      "source": {
+        "sd": "https:\/\/cldup.com\/af6eeIdNP1.mp4"
+      }
+    },
+    {
+      "id": "103860",
+      "name": "db049",
+      "description": "",
+      "image": "\/\/dragonballcomplete.com\/wp-content\/uploads\/2017\/02\/db49.jpg",
+      "thumbnail": "\/\/cdn.brid.tv\/live\/partners\/5625\/thumb\/103860_t_1488236240.jpg",
+      "duration": "1244",
+      "monetize": true,
+      "age_gate_id": "1",
+      "source": {
+        "sd": "https:\/\/cldup.com\/KW1FD5WOlf.mp4"
+      }
+    },
+    {
+      "id": "103861",
+      "name": "db050",
+      "description": "",
+      "image": "\/\/dragonballcomplete.com\/wp-content\/uploads\/2017\/02\/db50.jpg",
+      "thumbnail": "\/\/cdn.brid.tv\/live\/partners\/5625\/thumb\/103861_t_1488236254.jpg",
+      "duration": "1244",
+      "monetize": true,
+      "age_gate_id": "1",
+      "source": {
+        "sd": "https:\/\/cldup.com\/A9ZoKH1EZG.mp4"
+      }
+    }
+  ],
+  "Plugin": [
+    "brid.qc.min.js",
+    "brid.gima.min.js",
+    "brid.branding.min.js"
+  ]
+}

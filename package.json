@@ -1,0 +1,26 @@
+{
+  "name": "movie-crawler",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node --harmony app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/henrytao-me/movie-crawler.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/henrytao-me/movie-crawler/issues"
+  },
+  "homepage": "https://github.com/henrytao-me/movie-crawler#readme",
+  "dependencies": {
+    "phantom": "^4.0.2",
+    "phantomjs-prebuilt": "^2.1.14",
+    "shelljs": "^0.7.7",
+    "superagent": "^3.5.2"
+  }
+}
