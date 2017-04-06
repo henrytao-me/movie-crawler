@@ -1,11 +1,12 @@
 const Shell = require('shelljs');
 
-const downloads = require('./download.json')['Video']
-const downloadDir = '~/Downloads/Dragon\ Ball/Dragon\ Ball/'
+const downloads = require('./db-001-050.json')['Video']
+const downloadDir = '~/Downloads/Dragon\\ Ball/Dragon\\ Ball/'
 
-downloads.forEach(video => {
-  const name = video.name
+downloads.forEach((video, index) => {
+  const name = `Dragon\\ Ball\\ ${video.name.replace('db', '')}.mp4`
   const source = video.source.sd
-  console.log(`Downloading video ${name} at ${source}`)
-  Shell.exec(`curl ${source} -o ${downloadDir}${name}.mp4`)
+  const command = `\ncurl ${source} -o ${downloadDir}${name}`
+  console.log(command)
+  Shell.exec(command)
 })

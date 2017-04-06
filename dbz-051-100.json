@@ -1,0 +1,661 @@
+{
+  "Playlist": {
+    "id": "2899",
+    "name": "Dragon Ball Z 1-291",
+    "items": 291,
+    "page": 2,
+    "limit": 50
+  },
+  "Video": [
+    {
+      "id": "44271",
+      "name": "dbz51",
+      "description": "",
+      "image": "\/\/dragonballcomplete.com\/wp-content\/uploads\/2017\/03\/dbz51.jpg",
+      "thumbnail": "\/\/cdn.brid.tv\/live\/partners\/5625\/thumb\/44271_t_1488717765.jpg",
+      "duration": "1452",
+      "monetize": true,
+      "age_gate_id": "1",
+      "source": {
+        "sd": "https:\/\/cldup.com\/XD9V7fKcMo.mp4"
+      }
+    },
+    {
+      "id": "44272",
+      "name": "dbz52",
+      "description": "",
+      "image": "\/\/dragonballcomplete.com\/wp-content\/uploads\/2017\/03\/dbz52.jpg",
+      "thumbnail": "\/\/cdn.brid.tv\/live\/partners\/5625\/thumb\/44272_t_1488717782.jpg",
+      "duration": "1452",
+      "monetize": true,
+      "age_gate_id": "1",
+      "source": {
+        "sd": "https:\/\/cldup.com\/eEfII6vO9L.mp4"
+      }
+    },
+    {
+      "id": "44273",
+      "name": "dbz53",
+      "description": "",
+      "image": "\/\/dragonballcomplete.com\/wp-content\/uploads\/2017\/03\/dbz53.jpg",
+      "thumbnail": "\/\/cdn.brid.tv\/live\/partners\/5625\/thumb\/44273_t_1488717797.jpg",
+      "duration": "1452",
+      "monetize": true,
+      "age_gate_id": "1",
+      "source": {
+        "sd": "https:\/\/cldup.com\/lZLQcNYhaB.mp4"
+      }
+    },
+    {
+      "id": "44274",
+      "name": "dbz54",
+      "description": "",
+      "image": "\/\/dragonballcomplete.com\/wp-content\/uploads\/2017\/03\/dbz54.jpg",
+      "thumbnail": "\/\/cdn.brid.tv\/live\/partners\/5625\/thumb\/44274_t_1488717834.jpg",
+      "duration": "1452",
+      "monetize": true,
+      "age_gate_id": "1",
+      "source": {
+        "sd": "https:\/\/cldup.com\/WhMndF-iJq.mp4"
+      }
+    },
+    {
+      "id": "44275",
+      "name": "dbz55",
+      "description": "",
+      "image": "\/\/dragonballcomplete.com\/wp-content\/uploads\/2017\/03\/dbz55.jpg",
+      "thumbnail": "\/\/cdn.brid.tv\/live\/partners\/5625\/thumb\/44275_t_1488717849.jpg",
+      "duration": "1452",
+      "monetize": true,
+      "age_gate_id": "1",
+      "source": {
+        "sd": "https:\/\/cldup.com\/iEwt0lzYf0.mp4"
+      }
+    },
+    {
+      "id": "44276",
+      "name": "dbz56",
+      "description": "",
+      "image": "\/\/dragonballcomplete.com\/wp-content\/uploads\/2017\/03\/dbz56.jpg",
+      "thumbnail": "\/\/cdn.brid.tv\/live\/partners\/5625\/thumb\/44276_t_1488717863.jpg",
+      "duration": "1452",
+      "monetize": true,
+      "age_gate_id": "1",
+      "source": {
+        "sd": "https:\/\/cldup.com\/AK9IbknWYo.mp4"
+      }
+    },
+    {
+      "id": "44277",
+      "name": "dbz57",
+      "description": "",
+      "image": "\/\/dragonballcomplete.com\/wp-content\/uploads\/2017\/03\/dbz57.jpg",
+      "thumbnail": "\/\/cdn.brid.tv\/live\/partners\/5625\/thumb\/44277_t_1488718425.jpg",
+      "duration": "1452",
+      "monetize": true,
+      "age_gate_id": "1",
+      "source": {
+        "sd": "https:\/\/cldup.com\/JYfgvT3wTL.mp4"
+      }
+    },
+    {
+      "id": "44278",
+      "name": "dbz58",
+      "description": "",
+      "image": "\/\/dragonballcomplete.com\/wp-content\/uploads\/2017\/03\/dbz58.jpg",
+      "thumbnail": "\/\/cdn.brid.tv\/live\/partners\/5625\/thumb\/44278_t_1488718440.jpg",
+      "duration": "1452",
+      "monetize": true,
+      "age_gate_id": "1",
+      "source": {
+        "sd": "https:\/\/cldup.com\/qhdcSSnKSP.mp4"
+      }
+    },
+    {
+      "id": "44279",
+      "name": "dbz59",
+      "description": "",
+      "image": "\/\/dragonballcomplete.com\/wp-content\/uploads\/2017\/03\/dbz59.jpg",
+      "thumbnail": "\/\/cdn.brid.tv\/live\/partners\/5625\/thumb\/44279_t_1488718455.jpg",
+      "duration": "1452",
+      "monetize": true,
+      "age_gate_id": "1",
+      "source": {
+        "sd": "https:\/\/cldup.com\/xCEYBg0758.mp4"
+      }
+    },
+    {
+      "id": "44280",
+      "name": "dbz60",
+      "description": "",
+      "image": "\/\/dragonballcomplete.com\/wp-content\/uploads\/2017\/03\/dbz60.jpg",
+      "thumbnail": "\/\/cdn.brid.tv\/live\/partners\/5625\/thumb\/44280_t_1488718471.jpg",
+      "duration": "1452",
+      "monetize": true,
+      "age_gate_id": "1",
+      "source": {
+        "sd": "https:\/\/cldup.com\/ZfbF2lm2hI.mp4"
+      }
+    },
+    {
+      "id": "44306",
+      "name": "dbz61",
+      "description": "",
+      "image": "\/\/dragonballcomplete.com\/wp-content\/uploads\/2017\/03\/dbz61.jpg",
+      "thumbnail": "\/\/cdn.brid.tv\/live\/partners\/5625\/thumb\/44306_t_1488718484.jpg",
+      "duration": "1452",
+      "monetize": true,
+      "age_gate_id": "1",
+      "source": {
+        "sd": "https:\/\/cldup.com\/dP4gQy2aMm.mp4"
+      }
+    },
+    {
+      "id": "44307",
+      "name": "dbz62",
+      "description": "",
+      "image": "\/\/dragonballcomplete.com\/wp-content\/uploads\/2017\/03\/dbz62.jpg",
+      "thumbnail": "\/\/cdn.brid.tv\/live\/partners\/5625\/thumb\/44307_t_1488718501.jpg",
+      "duration": "1452",
+      "monetize": true,
+      "age_gate_id": "1",
+      "source": {
+        "sd": "https:\/\/cldup.com\/5R8UA3HGEr.mp4"
+      }
+    },
+    {
+      "id": "44308",
+      "name": "dbz63",
+      "description": "",
+      "image": "\/\/dragonballcomplete.com\/wp-content\/uploads\/2017\/03\/dbz63.jpg",
+      "thumbnail": "\/\/cdn.brid.tv\/live\/partners\/5625\/thumb\/44308_t_1488718518.jpg",
+      "duration": "1452",
+      "monetize": true,
+      "age_gate_id": "1",
+      "source": {
+        "sd": "https:\/\/cldup.com\/wt5fEIw8uI.mp4"
+      }
+    },
+    {
+      "id": "44309",
+      "name": "dbz64",
+      "description": "",
+      "image": "\/\/dragonballcomplete.com\/wp-content\/uploads\/2017\/03\/dbz64.jpg",
+      "thumbnail": "\/\/cdn.brid.tv\/live\/partners\/5625\/thumb\/44309_t_1488718532.jpg",
+      "duration": "1452",
+      "monetize": true,
+      "age_gate_id": "1",
+      "source": {
+        "sd": "https:\/\/cldup.com\/gq5HoT19hd.mp4"
+      }
+    },
+    {
+      "id": "44310",
+      "name": "dbz65",
+      "description": "",
+      "image": "\/\/dragonballcomplete.com\/wp-content\/uploads\/2017\/03\/dbz65.jpg",
+      "thumbnail": "\/\/cdn.brid.tv\/live\/partners\/5625\/thumb\/44310_t_1488718549.jpg",
+      "duration": "1452",
+      "monetize": true,
+      "age_gate_id": "1",
+      "source": {
+        "sd": "https:\/\/cldup.com\/u54Snv5tu8.mp4"
+      }
+    },
+    {
+      "id": "44311",
+      "name": "dbz66",
+      "description": "",
+      "image": "\/\/dragonballcomplete.com\/wp-content\/uploads\/2017\/03\/dbz66.jpg",
+      "thumbnail": "\/\/cdn.brid.tv\/live\/partners\/5625\/thumb\/44311_t_1488718565.jpg",
+      "duration": "1452",
+      "monetize": true,
+      "age_gate_id": "1",
+      "source": {
+        "sd": "https:\/\/cldup.com\/w1zorrLksM.mp4"
+      }
+    },
+    {
+      "id": "44312",
+      "name": "dbz67",
+      "description": "",
+      "image": "\/\/dragonballcomplete.com\/wp-content\/uploads\/2017\/03\/dbz67.jpg",
+      "thumbnail": "\/\/cdn.brid.tv\/live\/partners\/5625\/thumb\/44312_t_1488718763.jpg",
+      "duration": "1452",
+      "monetize": true,
+      "age_gate_id": "1",
+      "source": {
+        "sd": "https:\/\/cldup.com\/720zZpA8hQ.mp4"
+      }
+    },
+    {
+      "id": "44313",
+      "name": "dbz68",
+      "description": "",
+      "image": "\/\/dragonballcomplete.com\/wp-content\/uploads\/2017\/03\/dbz68.jpg",
+      "thumbnail": "\/\/cdn.brid.tv\/live\/partners\/5625\/thumb\/44313_t_1488718777.jpg",
+      "duration": "1453",
+      "monetize": true,
+      "age_gate_id": "1",
+      "source": {
+        "sd": "https:\/\/cldup.com\/ITRnLy5STr.mp4"
+      }
+    },
+    {
+      "id": "44314",
+      "name": "dbz69",
+      "description": "",
+      "image": "\/\/dragonballcomplete.com\/wp-content\/uploads\/2017\/03\/dbz69.jpg",
+      "thumbnail": "\/\/cdn.brid.tv\/live\/partners\/5625\/thumb\/44314_t_1488718791.jpg",
+      "duration": "1453",
+      "monetize": true,
+      "age_gate_id": "1",
+      "source": {
+        "sd": "https:\/\/cldup.com\/YL2PiH3E3a.mp4"
+      }
+    },
+    {
+      "id": "44315",
+      "name": "dbz70",
+      "description": "",
+      "image": "\/\/dragonballcomplete.com\/wp-content\/uploads\/2017\/03\/dbz70.jpg",
+      "thumbnail": "\/\/cdn.brid.tv\/live\/partners\/5625\/thumb\/44315_t_1488718806.jpg",
+      "duration": "1453",
+      "monetize": true,
+      "age_gate_id": "1",
+      "source": {
+        "sd": "https:\/\/cldup.com\/DLggaa0ogT.mp4"
+      }
+    },
+    {
+      "id": "44316",
+      "name": "dbz71",
+      "description": "",
+      "image": "\/\/dragonballcomplete.com\/wp-content\/uploads\/2017\/03\/dbz71.jpg",
+      "thumbnail": "\/\/cdn.brid.tv\/live\/partners\/5625\/thumb\/44316_t_1488718822.jpg",
+      "duration": "1453",
+      "monetize": true,
+      "age_gate_id": "1",
+      "source": {
+        "sd": "https:\/\/cldup.com\/h2KGTgqrIA.mp4"
+      }
+    },
+    {
+      "id": "44317",
+      "name": "dbz72",
+      "description": "",
+      "image": "\/\/dragonballcomplete.com\/wp-content\/uploads\/2017\/03\/dbz72.jpg",
+      "thumbnail": "\/\/cdn.brid.tv\/live\/partners\/5625\/thumb\/44317_t_1488718847.jpg",
+      "duration": "1452",
+      "monetize": true,
+      "age_gate_id": "1",
+      "source": {
+        "sd": "https:\/\/cldup.com\/2COzS6B0sD.mp4"
+      }
+    },
+    {
+      "id": "44318",
+      "name": "dbz73",
+      "description": "",
+      "image": "\/\/dragonballcomplete.com\/wp-content\/uploads\/2017\/03\/dbz73.jpg",
+      "thumbnail": "\/\/cdn.brid.tv\/live\/partners\/5625\/thumb\/44318_t_1488718863.jpg",
+      "duration": "1452",
+      "monetize": true,
+      "age_gate_id": "1",
+      "source": {
+        "sd": "https:\/\/cldup.com\/2H0u-IhaUx.mp4"
+      }
+    },
+    {
+      "id": "44319",
+      "name": "dbz74",
+      "description": "",
+      "image": "\/\/dragonballcomplete.com\/wp-content\/uploads\/2017\/03\/dbz74.jpg",
+      "thumbnail": "\/\/cdn.brid.tv\/live\/partners\/5625\/thumb\/44319_t_1488718878.jpg",
+      "duration": "1452",
+      "monetize": true,
+      "age_gate_id": "1",
+      "source": {
+        "sd": "https:\/\/cldup.com\/_splDgSsmf.mp4"
+      }
+    },
+    {
+      "id": "44320",
+      "name": "dbz75",
+      "description": "",
+      "image": "\/\/dragonballcomplete.com\/wp-content\/uploads\/2017\/03\/dbz75.jpg",
+      "thumbnail": "\/\/cdn.brid.tv\/live\/partners\/5625\/thumb\/44320_t_1488718893.jpg",
+      "duration": "1453",
+      "monetize": true,
+      "age_gate_id": "1",
+      "source": {
+        "sd": "https:\/\/cldup.com\/onLoNW45VI.mp4"
+      }
+    },
+    {
+      "id": "44321",
+      "name": "dbz76",
+      "description": "",
+      "image": "\/\/dragonballcomplete.com\/wp-content\/uploads\/2017\/03\/dbz76.jpg",
+      "thumbnail": "\/\/cdn.brid.tv\/live\/partners\/5625\/thumb\/44321_t_1488718907.jpg",
+      "duration": "1453",
+      "monetize": true,
+      "age_gate_id": "1",
+      "source": {
+        "sd": "https:\/\/cldup.com\/u5Cyhg159h.mp4"
+      }
+    },
+    {
+      "id": "44322",
+      "name": "dbz77",
+      "description": "",
+      "image": "\/\/dragonballcomplete.com\/wp-content\/uploads\/2017\/03\/dbz77.jpg",
+      "thumbnail": "\/\/cdn.brid.tv\/live\/partners\/5625\/thumb\/44322_t_1488719007.jpg",
+      "duration": "1453",
+      "monetize": true,
+      "age_gate_id": "1",
+      "source": {
+        "sd": "https:\/\/cldup.com\/hRtcsgDpOr.mp4"
+      }
+    },
+    {
+      "id": "44323",
+      "name": "dbz78",
+      "description": "",
+      "image": "\/\/dragonballcomplete.com\/wp-content\/uploads\/2017\/03\/dbz78.jpg",
+      "thumbnail": "\/\/cdn.brid.tv\/live\/partners\/5625\/thumb\/44323_t_1488721020.jpg",
+      "duration": "1453",
+      "monetize": true,
+      "age_gate_id": "1",
+      "source": {
+        "sd": "https:\/\/cldup.com\/GHxDY7Elah.mp4"
+      }
+    },
+    {
+      "id": "44324",
+      "name": "dbz79",
+      "description": "",
+      "image": "\/\/dragonballcomplete.com\/wp-content\/uploads\/2017\/03\/dbz79.jpg",
+      "thumbnail": "\/\/cdn.brid.tv\/live\/partners\/5625\/thumb\/44324_t_1488721037.jpg",
+      "duration": "1453",
+      "monetize": true,
+      "age_gate_id": "1",
+      "source": {
+        "sd": "https:\/\/cldup.com\/J-brdz--79.mp4"
+      }
+    },
+    {
+      "id": "44325",
+      "name": "dbz80",
+      "description": "",
+      "image": "\/\/dragonballcomplete.com\/wp-content\/uploads\/2017\/03\/dbz80.jpg",
+      "thumbnail": "\/\/cdn.brid.tv\/live\/partners\/5625\/thumb\/44325_t_1488721053.jpg",
+      "duration": "1453",
+      "monetize": true,
+      "age_gate_id": "1",
+      "source": {
+        "sd": "https:\/\/cldup.com\/3Z0eqz5fWX.mp4"
+      }
+    },
+    {
+      "id": "44326",
+      "name": "dbz81",
+      "description": "",
+      "image": "\/\/dragonballcomplete.com\/wp-content\/uploads\/2017\/03\/dbz81.jpg",
+      "thumbnail": "\/\/cdn.brid.tv\/live\/partners\/5625\/thumb\/44326_t_1488721075.jpg",
+      "duration": "1453",
+      "monetize": true,
+      "age_gate_id": "1",
+      "source": {
+        "sd": "https:\/\/cldup.com\/_ktpd4d7Wc.mp4"
+      }
+    },
+    {
+      "id": "44327",
+      "name": "dbz82",
+      "description": "",
+      "image": "\/\/dragonballcomplete.com\/wp-content\/uploads\/2017\/03\/dbz82.jpg",
+      "thumbnail": "\/\/cdn.brid.tv\/live\/partners\/5625\/thumb\/44327_t_1488721090.jpg",
+      "duration": "1453",
+      "monetize": true,
+      "age_gate_id": "1",
+      "source": {
+        "sd": "https:\/\/cldup.com\/YRWM47hGtQ.mp4"
+      }
+    },
+    {
+      "id": "44328",
+      "name": "dbz83",
+      "description": "",
+      "image": "\/\/dragonballcomplete.com\/wp-content\/uploads\/2017\/03\/dbz83.jpg",
+      "thumbnail": "\/\/cdn.brid.tv\/live\/partners\/5625\/thumb\/44328_t_1488721106.jpg",
+      "duration": "1453",
+      "monetize": true,
+      "age_gate_id": "1",
+      "source": {
+        "sd": "https:\/\/cldup.com\/C1Ic-B3fK0.mp4"
+      }
+    },
+    {
+      "id": "44329",
+      "name": "dbz84",
+      "description": "",
+      "image": "\/\/dragonballcomplete.com\/wp-content\/uploads\/2017\/03\/dbz84.jpg",
+      "thumbnail": "\/\/cdn.brid.tv\/live\/partners\/5625\/thumb\/44329_t_1488721120.jpg",
+      "duration": "1453",
+      "monetize": true,
+      "age_gate_id": "1",
+      "source": {
+        "sd": "https:\/\/cldup.com\/44aZsJAWM5.mp4"
+      }
+    },
+    {
+      "id": "44330",
+      "name": "dbz85",
+      "description": "",
+      "image": "\/\/dragonballcomplete.com\/wp-content\/uploads\/2017\/03\/dbz85.jpg",
+      "thumbnail": "\/\/cdn.brid.tv\/live\/partners\/5625\/thumb\/44330_t_1488721135.jpg",
+      "duration": "1453",
+      "monetize": true,
+      "age_gate_id": "1",
+      "source": {
+        "sd": "https:\/\/cldup.com\/39kbBYaxMX.mp4"
+      }
+    },
+    {
+      "id": "44331",
+      "name": "dbz86",
+      "description": "",
+      "image": "\/\/dragonballcomplete.com\/wp-content\/uploads\/2017\/03\/dbz86.jpg",
+      "thumbnail": "\/\/cdn.brid.tv\/live\/partners\/5625\/thumb\/44331_t_1488721150.jpg",
+      "duration": "1453",
+      "monetize": true,
+      "age_gate_id": "1",
+      "source": {
+        "sd": "https:\/\/cldup.com\/Og7qje9nO2.mp4"
+      }
+    },
+    {
+      "id": "44332",
+      "name": "dbz87",
+      "description": "",
+      "image": "\/\/dragonballcomplete.com\/wp-content\/uploads\/2017\/03\/dbz87.jpg",
+      "thumbnail": "\/\/cdn.brid.tv\/live\/partners\/5625\/thumb\/44332_t_1488721458.jpg",
+      "duration": "1453",
+      "monetize": true,
+      "age_gate_id": "1",
+      "source": {
+        "sd": "https:\/\/cldup.com\/FkQ32QjF2n.mp4"
+      }
+    },
+    {
+      "id": "44333",
+      "name": "dbz88",
+      "description": "",
+      "image": "\/\/dragonballcomplete.com\/wp-content\/uploads\/2017\/03\/dbz88.jpg",
+      "thumbnail": "\/\/cdn.brid.tv\/live\/partners\/5625\/thumb\/44333_t_1488721293.jpg",
+      "duration": "1453",
+      "monetize": true,
+      "age_gate_id": "1",
+      "source": {
+        "sd": "https:\/\/cldup.com\/DdbVvYQO5y.mp4"
+      }
+    },
+    {
+      "id": "44334",
+      "name": "dbz89",
+      "description": "",
+      "image": "\/\/dragonballcomplete.com\/wp-content\/uploads\/2017\/03\/dbz89.jpg",
+      "thumbnail": "\/\/cdn.brid.tv\/live\/partners\/5625\/thumb\/44334_t_1488721317.jpg",
+      "duration": "1453",
+      "monetize": true,
+      "age_gate_id": "1",
+      "source": {
+        "sd": "https:\/\/cldup.com\/DuqsTyXJXj.mp4"
+      }
+    },
+    {
+      "id": "44335",
+      "name": "dbz90",
+      "description": "",
+      "image": "\/\/dragonballcomplete.com\/wp-content\/uploads\/2017\/03\/dbz90.jpg",
+      "thumbnail": "\/\/cdn.brid.tv\/live\/partners\/5625\/thumb\/44335_t_1488721335.jpg",
+      "duration": "1453",
+      "monetize": true,
+      "age_gate_id": "1",
+      "source": {
+        "sd": "https:\/\/cldup.com\/ZLF9M3Zxay.mp4"
+      }
+    },
+    {
+      "id": "44336",
+      "name": "dbz91",
+      "description": "",
+      "image": "\/\/dragonballcomplete.com\/wp-content\/uploads\/2017\/03\/dbz91.jpg",
+      "thumbnail": "\/\/cdn.brid.tv\/live\/partners\/5625\/thumb\/44336_t_1488721357.jpg",
+      "duration": "1453",
+      "monetize": true,
+      "age_gate_id": "1",
+      "source": {
+        "sd": "https:\/\/cldup.com\/Ixp6kJpwop.mp4"
+      }
+    },
+    {
+      "id": "44337",
+      "name": "dbz92",
+      "description": "",
+      "image": "\/\/dragonballcomplete.com\/wp-content\/uploads\/2017\/03\/dbz92.jpg",
+      "thumbnail": "\/\/cdn.brid.tv\/live\/partners\/5625\/thumb\/44337_t_1488721373.jpg",
+      "duration": "1453",
+      "monetize": true,
+      "age_gate_id": "1",
+      "source": {
+        "sd": "https:\/\/cldup.com\/jNgsYB4zkh.mp4"
+      }
+    },
+    {
+      "id": "44338",
+      "name": "dbz93",
+      "description": "",
+      "image": "\/\/dragonballcomplete.com\/wp-content\/uploads\/2017\/03\/dbz93.jpg",
+      "thumbnail": "\/\/cdn.brid.tv\/live\/partners\/5625\/thumb\/44338_t_1488721386.jpg",
+      "duration": "1453",
+      "monetize": true,
+      "age_gate_id": "1",
+      "source": {
+        "sd": "https:\/\/cldup.com\/NhZYf8YbI9.mp4"
+      }
+    },
+    {
+      "id": "44339",
+      "name": "dbz94",
+      "description": "",
+      "image": "\/\/dragonballcomplete.com\/wp-content\/uploads\/2017\/03\/dbz94.jpg",
+      "thumbnail": "\/\/cdn.brid.tv\/live\/partners\/5625\/thumb\/44339_t_1488721401.jpg",
+      "duration": "1453",
+      "monetize": true,
+      "age_gate_id": "1",
+      "source": {
+        "sd": "https:\/\/cldup.com\/fg0mlOO9XO.mp4"
+      }
+    },
+    {
+      "id": "44340",
+      "name": "dbz95",
+      "description": "",
+      "image": "\/\/dragonballcomplete.com\/wp-content\/uploads\/2017\/03\/dbz95.jpg",
+      "thumbnail": "\/\/cdn.brid.tv\/live\/partners\/5625\/thumb\/44340_t_1488721417.jpg",
+      "duration": "1453",
+      "monetize": true,
+      "age_gate_id": "1",
+      "source": {
+        "sd": "https:\/\/cldup.com\/hm5a4sXkl9.mp4"
+      }
+    },
+    {
+      "id": "44341",
+      "name": "dbz96",
+      "description": "",
+      "image": "\/\/dragonballcomplete.com\/wp-content\/uploads\/2017\/03\/dbz96.jpg",
+      "thumbnail": "\/\/cdn.brid.tv\/live\/partners\/5625\/thumb\/44341_t_1488721434.jpg",
+      "duration": "1453",
+      "monetize": true,
+      "age_gate_id": "1",
+      "source": {
+        "sd": "https:\/\/cldup.com\/WetEDdWK9T.mp4"
+      }
+    },
+    {
+      "id": "44342",
+      "name": "dbz97",
+      "description": "",
+      "image": "\/\/dragonballcomplete.com\/wp-content\/uploads\/2017\/03\/dbz97.jpg",
+      "thumbnail": "\/\/cdn.brid.tv\/live\/partners\/5625\/thumb\/44342_t_1488722593.jpg",
+      "duration": "1453",
+      "monetize": true,
+      "age_gate_id": "1",
+      "source": {
+        "sd": "https:\/\/cldup.com\/uoew3Knxck.mp4"
+      }
+    },
+    {
+      "id": "44343",
+      "name": "dbz98",
+      "description": "",
+      "image": "\/\/dragonballcomplete.com\/wp-content\/uploads\/2017\/03\/dbz98.jpg",
+      "thumbnail": "\/\/cdn.brid.tv\/live\/partners\/5625\/thumb\/44343_t_1488722613.jpg",
+      "duration": "1453",
+      "monetize": true,
+      "age_gate_id": "1",
+      "source": {
+        "sd": "https:\/\/cldup.com\/pC-tl3hdZV.mp4"
+      }
+    },
+    {
+      "id": "44344",
+      "name": "dbz99",
+      "description": "",
+      "image": "\/\/dragonballcomplete.com\/wp-content\/uploads\/2017\/03\/dbz99.jpg",
+      "thumbnail": "\/\/cdn.brid.tv\/live\/partners\/5625\/thumb\/44344_t_1488722642.jpg",
+      "duration": "1453",
+      "monetize": true,
+      "age_gate_id": "1",
+      "source": {
+        "sd": "https:\/\/cldup.com\/xXRSY7IVDB.mp4"
+      }
+    },
+    {
+      "id": "44345",
+      "name": "dbz100",
+      "description": "",
+      "image": "\/\/dragonballcomplete.com\/wp-content\/uploads\/2017\/03\/dbz100.jpg",
+      "thumbnail": "\/\/cdn.brid.tv\/live\/partners\/5625\/thumb\/44345_t_1488722657.jpg",
+      "duration": "1453",
+      "monetize": true,
+      "age_gate_id": "1",
+      "source": {
+        "sd": "https:\/\/cldup.com\/FcR6HyXtHo.mp4"
+      }
+    }
+  ]
+}
